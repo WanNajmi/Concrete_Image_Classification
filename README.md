@@ -1,7 +1,7 @@
 # Concrete_Image_Classification
 
 # <div align="center">Concrete Crack Images for Classification</div>
-<div align="center"><img src="https://www.buildersbooklet.com/concrete/what-is-concrete/" width="80%"></div>
+<div align="center"><img src="https://www.buildersbooklet.com/storage/2021/04/concrete.png" width="80%"></div>
 
 ## Overview
 The dataset contains concrete images having cracks. The data is collected from various METU Campus Buildings.
@@ -22,10 +22,10 @@ Two type of images:
 ## Data Exploration:
 
 ## Negative Image Concrete:
-<img src = "https://github.com/WanNajmi/Concrete_Image_Classification/blob/main/Negative.jpg" width = "80%" >
+<img src = "https://github.com/WanNajmi/Concrete_Image_Classification/blob/main/Negative.jpg" width = "40%" >
 
 ## Positive Image Concrete:
-<img src = "https://github.com/WanNajmi/Concrete_Image_Classification/blob/main/Positive.jpg" width = "80%" >
+<img src = "https://github.com/WanNajmi/Concrete_Image_Classification/blob/main/Positive.jpg" width = "40%" >
 
 ## Training vs Validation Accuracy: 
 <img src = "https://github.com/WanNajmi/Concrete_Image_Classification/blob/main/accuracy.PNG" width = "40%" >
